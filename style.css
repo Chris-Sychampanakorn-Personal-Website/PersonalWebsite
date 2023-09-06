@@ -1,0 +1,25 @@
+@font-face
+{
+    font-family: zero; src: url(fonts/Induction.otf);
+
+}
+html
+{
+    font-family: zero;
+    background-color: black;
+    color: red;
+}
+.head_border
+{
+    font-family: zero;
+    border-style:double;
+    text-align: center;
+}
+.home
+{
+    border-style:inset;
+    width: 50;
+    height: 50;
+    margin: 3px;
+    padding: 16px;
+}
