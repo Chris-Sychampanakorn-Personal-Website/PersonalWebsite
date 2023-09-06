@@ -20,35 +20,44 @@ html
 {
     font-family: zero;
     border-style:double;
+    height: fit-content;
+    width: fit-content;
+    margin-left:33%;
+    padding-left: 20px;
+    padding-right: 20px;
     text-align: center;
 }
 .home
 {
     border-style:inset;
     text-align: center;
-    width: 50;
+    margin-left:33%;
+    width: 400px;
     height: 50;
     margin: 30px;
     padding: 30px;
+    margin-left: 30%;
     border-color: aliceblue;
 }
 .about
 {
     border-style:inset;
     text-align: center;
-    width: 50;
+    width: 400px;
     height: 50;
     margin: 30px;
     padding: 30px;
+    margin-left: 30%;
     border-color: aliceblue;
 }
 .portfolio
 {
     border-style:inset;
     text-align: center;
-    width: 50;
+    width: 400px;
     height: 50;
     margin: 30px;
     padding: 30px;
+    margin-left: 30%;
     border-color: aliceblue;
 }
