@@ -10,15 +10,8 @@ html
     color: red;
 }
 .title_head
-{
-    font-size: 9px;
-    border-style:inset;
-    border-color: white;
-    width: 450px;
-    height: fit-content;
-    
-    border: 6px solid;
-    
+{    
+    border: px solid;    
     color: teal;
     text-align:center;
     
@@ -30,6 +23,26 @@ html
     text-align: center;
 }
 .home
+{
+    border-style:inset;
+    text-align: center;
+    width: 50;
+    height: 50;
+    margin: 30px;
+    padding: 30px;
+    border-color: aliceblue;
+}
+.about
+{
+    border-style:inset;
+    text-align: center;
+    width: 50;
+    height: 50;
+    margin: 30px;
+    padding: 30px;
+    border-color: aliceblue;
+}
+.portfolio
 {
     border-style:inset;
     text-align: center;
